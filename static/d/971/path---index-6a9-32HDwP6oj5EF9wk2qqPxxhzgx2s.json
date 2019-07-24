@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"about_subheading\" on type \"wordpress__acf_optionsOptions\". Did you mean \"about_heading\", \"home_subheading\", \"home_heading\", or \"about_content\"?","locations":[{"line":9,"column":11}]}],"pageContext":{"isCreatedByStatefulCreatePages":true}}

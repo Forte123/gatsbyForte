@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"allWordpressAcfOptions\" on type \"Query\".","locations":[{"line":2,"column":3}]},{"message":"Cannot query field \"allWordpressPage\" on type \"Query\". Did you mean \"allSitePage\"?","locations":[{"line":41,"column":3}]}],"pageContext":{"isCreatedByStatefulCreatePages":true}}
